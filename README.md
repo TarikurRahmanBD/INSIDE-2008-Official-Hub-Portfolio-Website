@@ -7,9 +7,9 @@
 ---
 
 ## 👨‍💻 Developed & Maintained By
-*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.netlify.app)** 
+*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.vercel.app)** 
 *   **GitHub Profile:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
-*   **Personal Portfolio:** 🌐 **[yourtarikur.netlify.app](https://yourtarikur.netlify.app)**
+*   **Personal Portfolio:** 🌐 **[yourtarikur.netlify.app](https://yourtarikur.vercel.app)**
 
 ---
 
